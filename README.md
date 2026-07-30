@@ -27,12 +27,7 @@ Data Minig/
 │   └── rapport_executif_segmentation.docx  # Rapport exécutif (2 pages)
 ├── presentation/
 │   └── presentation_comite_direction.pptx  # Présentation comité de direction (10 slides)
-└── scripts/                       # Scripts source, reproductibles (seed=42)
-    ├── generate_data.py            # Génération des données simulées
-    ├── analysis.py                 # Pipeline complet (feature engineering → clustering → segments)
-    ├── build_notebook.py           # Construction du notebook à partir du pipeline
-    ├── build_report.py             # Génération du rapport Word
-    └── build_ppt.py                # Génération de la présentation PowerPoint
+
 ```
 
 ## Méthodologie
