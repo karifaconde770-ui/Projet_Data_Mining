@@ -1,0 +1,10 @@
+{
+  "n_clients": 5000,
+  "n_transactions": 50000,
+  "period_days": 183,
+  "best_k": 7,
+  "silhouette_avg_kmeans": 0.32525935608741413,
+  "adjusted_rand_index": 0.6722271871072638,
+  "n_components_90pct": 6,
+  "pca2_variance_pct": 54.52164908498487
+}

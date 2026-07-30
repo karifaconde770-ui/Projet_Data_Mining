@@ -1,0 +1,81 @@
+{
+  "n_clients": 5000,
+  "n_transactions": 50000,
+  "period_days": 183,
+  "best_k": 7,
+  "silhouette_avg_kmeans": 0.32525935608741413,
+  "adjusted_rand_index": 0.6722271871072638,
+  "n_components_90pct": 6,
+  "pca2_variance_pct": 54.52164908498487,
+  "inertias": [
+    39371.92138015885,
+    34823.03062747697,
+    30519.722566582604,
+    26455.281762583763,
+    23462.046203160284,
+    20841.43830765554,
+    18638.177631754297,
+    17155.344688119832,
+    15961.655056459473
+  ],
+  "silhouettes": [
+    0.3256815906736207,
+    0.31326905845962394,
+    0.2611992359024447,
+    0.28542804145200124,
+    0.30229675796827943,
+    0.32525935608741413,
+    0.33442116212746953,
+    0.349044119362973,
+    0.3563050151326871
+  ],
+  "k_range": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "cluster_names": {
+    "0": "Petits transactionnels quotidiens",
+    "1": "Acheteurs de crédit téléphonique occasionnels",
+    "2": "Épargnants / gros déposants occasionnels",
+    "3": "Payeurs de factures réguliers",
+    "4": "Retraits dominants occasionnels",
+    "5": "Épargnants / gros déposants réguliers",
+    "6": "Transferts sociaux dominants occasionnels"
+  },
+  "outlier_report": {
+    "montant_total": {
+      "lo": 7000.0,
+      "hi": 20804580.0,
+      "n_capped": 94
+    },
+    "montant_moyen": {
+      "lo": 5500.0,
+      "hi": 1093412.7894736845,
+      "n_capped": 94
+    },
+    "montant_std": {
+      "lo": 0.0,
+      "hi": 1164007.2396843112,
+      "n_capped": 50
+    },
+    "freq_hebdo_moyenne": {
+      "lo": 0.041176470588235294,
+      "hi": 1.1666666666666665,
+      "n_capped": 99
+    },
+    "frequence": {
+      "lo": 1.0,
+      "hi": 27.0,
+      "n_capped": 38
+    }
+  },
+  "duplicates_removed": 0,
+  "missing_removed": 0
+}

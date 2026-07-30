@@ -1,0 +1,8 @@
+cluster,nom_segment,effectif,part_pct,silhouette_moyenne,recence,frequence,montant_total,montant_moyen,montant_std,freq_hebdo_moyenne,cv_montant,pct_depot,pct_retrait,pct_transfert,pct_paiement_facture,pct_achat_credit
+0,Petits transactionnels quotidiens,1069,21.4,0.374,11.0,16.9,770659.7,47554.6,33239.5,0.7,0.7,0.3,0.3,0.3,0.1,0.1
+1,Acheteurs de crédit téléphonique occasionnels,609,12.2,0.323,56.2,2.7,64923.6,35840.8,9170.0,0.2,0.3,0.0,0.0,0.1,0.0,0.8
+2,Épargnants / gros déposants occasionnels,403,8.1,0.054,77.0,1.8,235829.3,130673.1,38906.1,0.2,0.3,0.5,0.0,0.1,0.3,0.0
+3,Payeurs de factures réguliers,727,14.5,0.431,11.2,17.1,1894545.1,115163.0,58153.0,0.7,0.5,0.1,0.1,0.1,0.7,0.1
+4,Retraits dominants occasionnels,760,15.2,0.184,61.9,2.4,123569.9,59160.5,25383.9,0.2,0.4,0.1,0.6,0.2,0.0,0.1
+5,Épargnants / gros déposants réguliers,784,15.7,0.437,10.9,17.7,13784010.3,778374.7,644329.3,0.7,0.8,0.5,0.2,0.1,0.1,0.1
+6,Transferts sociaux dominants occasionnels,648,13.0,0.327,64.1,2.2,84896.1,50089.0,9105.1,0.2,0.3,0.0,0.0,0.9,0.0,0.0
